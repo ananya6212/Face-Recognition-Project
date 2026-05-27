@@ -65,7 +65,7 @@ A webcam window will popup and start recognition proccess<br>
 
 <br><br>
 
-Made By ❤ : [Ananya](mailto:ylafrimi@gmail.com)<br>
+Made By ❤ : [Ananya](mailto:ananya70377@gmail.com)<br>
 **Free Software, Hell Yeah!**
 
 
